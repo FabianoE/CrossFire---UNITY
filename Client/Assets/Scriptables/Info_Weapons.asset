@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6cd982a7a7c35c643abc71fa013317ea, type: 3}
+  m_Name: Info_Weapons
+  m_EditorClassIdentifier: 
+  weaponsInfo:
+  - ID: 1
+    Name: AK-47
+    Resource: AK-47
+    TPSAnimName: 
+    ReloadTime: 2
+    posShotTime: 0
+    Weight: 2.2
+    JumpForce: 1.73
+    type: 0
+    CrossHair: 
+    Zoom: 0
+    IdleHair: 45
+    WalkHair: 60
+    FireHair: 75
+    ReloadSounds:
+    - {fileID: 8300000, guid: b9548dbb92d33c44cbdc1ca127f754a0, type: 3}
+    - {fileID: 8300000, guid: 27048c14d8f409e4db78da6457e4c4ff, type: 3}
+    - {fileID: 8300000, guid: d6a628b85e188d641b93b43f4dbae5ca, type: 3}
+    Select: {fileID: 8300000, guid: d6a628b85e188d641b93b43f4dbae5ca, type: 3}
+    Shoot:
+    - {fileID: 8300000, guid: 7c67e807ff613a74b9b98e93cc4d166c, type: 3}
+  - ID: 2
+    Name: D. Eagle
+    Resource: D.E
+    TPSAnimName: 
+    ReloadTime: 2
+    posShotTime: 0
+    Weight: 2.2
+    JumpForce: 2
+    type: 2
+    CrossHair: 
+    Zoom: 0
+    IdleHair: 45
+    WalkHair: 55
+    FireHair: 80
+    ReloadSounds:
+    - {fileID: 8300000, guid: 3f7f161efbbb97b4ab87d2711ee5be26, type: 3}
+    - {fileID: 8300000, guid: 40d79680dcd783f4e800c9fc4b7dd961, type: 3}
+    - {fileID: 8300000, guid: 5245a982adfb52f4dba2fa0be619782c, type: 3}
+    Select: {fileID: 8300000, guid: dcebf9743bd1b204fbaf061d7f0b26cb, type: 3}
+    Shoot:
+    - {fileID: 8300000, guid: 8b6d62ee548f1404ebe7d5e74efadf1d, type: 3}
+  - ID: 3
+    Name: AWM INFERNAL
+    Resource: AWM-INFERNAL
+    TPSAnimName: 
+    ReloadTime: 2.5
+    posShotTime: 0
+    Weight: 3.2
+    JumpForce: 2
+    type: 1
+    CrossHair: SNIPER2
+    Zoom: 0
+    IdleHair: 60
+    WalkHair: 70
+    FireHair: 80
+    ReloadSounds:
+    - {fileID: 8300000, guid: 141a18b5403631d409796bf69c96fb41, type: 3}
+    - {fileID: 8300000, guid: cfc63e1737d2dc6448070aef0c8b282d, type: 3}
+    - {fileID: 8300000, guid: 40466c1855f5d6b4b92b22d1dd05a3cc, type: 3}
+    Select: {fileID: 8300000, guid: 40466c1855f5d6b4b92b22d1dd05a3cc, type: 3}
+    Shoot:
+    - {fileID: 8300000, guid: cb076b97faa37d7489d409e5b4d9039e, type: 3}
+  - ID: 4
+    Name: MACHADO
+    Resource: AXE
+    TPSAnimName: Axe
+    ReloadTime: 2.5
+    posShotTime: 2
+    Weight: 1.8
+    JumpForce: 0
+    type: 3
+    CrossHair: 
+    Zoom: 0
+    IdleHair: 30
+    WalkHair: 30
+    FireHair: 30
+    ReloadSounds:
+    - {fileID: 8300000, guid: 141a18b5403631d409796bf69c96fb41, type: 3}
+    - {fileID: 8300000, guid: cfc63e1737d2dc6448070aef0c8b282d, type: 3}
+    - {fileID: 8300000, guid: 40466c1855f5d6b4b92b22d1dd05a3cc, type: 3}
+    Select: {fileID: 8300000, guid: 40466c1855f5d6b4b92b22d1dd05a3cc, type: 3}
+    Shoot:
+    - {fileID: 8300000, guid: cb076b97faa37d7489d409e5b4d9039e, type: 3}
+  - ID: 5
+    Name: GRENADE
+    Resource: AXE
+    TPSAnimName: Axe
+    ReloadTime: 2.5
+    posShotTime: 2
+    Weight: 1.8
+    JumpForce: 0
+    type: 4
+    CrossHair: 
+    Zoom: 0
+    IdleHair: 30
+    WalkHair: 30
+    FireHair: 30
+    ReloadSounds: []
+    Select: {fileID: 8300000, guid: 9870047eaffbaf644b94e4f709023e82, type: 3}
+    Shoot:
+    - {fileID: 8300000, guid: 5f874fb7c2c109f4d9cd628e3bb1cb89, type: 3}

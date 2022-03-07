@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Baixo
+  m_Mask: 00000000000000000000000001000000010000000000000000000000000000000000000000000000000000000000000000000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Scene Root
+    m_Weight: 1
+  - m_Path: Scene Root/M-bone
+    m_Weight: 1
+  - m_Path: Scene Root/M-bone/M-bone Pelvis
+    m_Weight: 1
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone L Thigh
+    m_Weight: 1
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone L Thigh/M-bone L Calf
+    m_Weight: 1
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone L Thigh/M-bone L Calf/M-bone L
+      Foot
+    m_Weight: 1
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone L Thigh/M-bone L Calf/M-bone L
+      Foot/M-bone L Toe0
+    m_Weight: 1
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone R Thigh
+    m_Weight: 1
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone R Thigh/M-bone R Calf
+    m_Weight: 1
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone R Thigh/M-bone R Calf/M-bone R
+      Foot
+    m_Weight: 1
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone R Thigh/M-bone R Calf/M-bone R
+      Foot/M-bone R Toe0
+    m_Weight: 1
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      Head
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      L Clavicle
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      L Clavicle/M-bone L UpperArm
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      L Clavicle/M-bone L UpperArm/M-bone L Forearm
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      L Clavicle/M-bone L UpperArm/M-bone L Forearm/M-bone L Hand
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      L Clavicle/M-bone L UpperArm/M-bone L Forearm/M-bone L Hand/M-bone L Finger0
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      L Clavicle/M-bone L UpperArm/M-bone L Forearm/M-bone L Hand/M-bone L Finger1
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      L Clavicle/M-bone L UpperArm/M-bone L Forearm/M-bone L Hand/M-bone L Finger2
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      R Clavicle
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      R Clavicle/M-bone R UpperArm
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      R Clavicle/M-bone R UpperArm/M-bone R Forearm
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      R Clavicle/M-bone R UpperArm/M-bone R Forearm/M-bone R Hand
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      R Clavicle/M-bone R UpperArm/M-bone R Forearm/M-bone R Hand/M-bone R Finger0
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      R Clavicle/M-bone R UpperArm/M-bone R Forearm/M-bone R Hand/M-bone R Finger1
+    m_Weight: 0
+  - m_Path: Scene Root/M-bone/M-bone Pelvis/M-bone Spine/M-bone Spine1/M-bone Neck/M-bone
+      R Clavicle/M-bone R UpperArm/M-bone R Forearm/M-bone R Hand/M-bone R Finger2
+    m_Weight: 0
+  - m_Path: THE_ARCH_BODY_BL_0.bmp
+    m_Weight: 1
+  - m_Path: THE_ARCH_FACE_BL_0.bmp
+    m_Weight: 1

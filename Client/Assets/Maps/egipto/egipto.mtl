@@ -1,0 +1,146 @@
+# 
+# Wavefront material file
+# Converted by 3D Exploration 1.8
+# XDimension Software, LLC
+# http://www.xdsoft.com/explorer/
+# 
+newmtl wall_9
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd wall-9.bmp
+newmtl wall_1
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd wall-1.bmp
+newmtl wall_14
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd wall-14.bmp
+newmtl wall_15
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd wall-15.bmp
+newmtl wall_16
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd wall-16.bmp
+newmtl wall_4
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd wall-4.bmp
+newmtl box2
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd box2.bmp
+newmtl wall_11
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd wall-11.bmp
+newmtl wall_2
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd wall-2.bmp
+newmtl wall_8
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd wall-8.bmp
+newmtl _0CSSANDWALL
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd -0CSSANDWALL.bmp
+newmtl logo4
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd logo4.bmp
+newmtl guancai_41
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd guancai-41.bmp
+newmtl Crossfire201009
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd Crossfire201009.bmp
+newmtl guancai_1
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd guancai-1.bmp
+newmtl guancai
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd guancai.bmp
+newmtl wall_10
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd wall-10.bmp
+newmtl wall_3
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd wall-3.bmp
+newmtl logo1
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd logo1.bmp
+newmtl logo2
+	 Ka 0.588235 0.588235 0.588235
+	 Kd 0.588235 0.588235 0.588235
+	 Ks 0.898039 0.898039 0.898039
+	 illum 2
+	 Ns 4
+	 map_Kd logo2.bmp

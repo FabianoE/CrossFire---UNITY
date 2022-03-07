@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5ffcf8b9f87c140a1b2dddb5072e59f1
+timeCreated: 1546549630
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - GridTexture: {fileID: 2800000, guid: d92d93aaf6d704e75b6a77771c115464, type: 3}
+  - MarkTexture: {fileID: 2800000, guid: 00658084054d14398805a0b911775963, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

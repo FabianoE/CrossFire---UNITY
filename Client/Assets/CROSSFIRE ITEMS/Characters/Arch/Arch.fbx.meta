@@ -1,0 +1,484 @@
+fileFormatVersion: 2
+guid: 3ac0d21bf3f3b444c8ac4eb08f7bfb41
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: M-bone
+  - first:
+      1: 100004
+    second: M-bone Head
+  - first:
+      1: 100006
+    second: M-bone L Calf
+  - first:
+      1: 100008
+    second: M-bone L Clavicle
+  - first:
+      1: 100010
+    second: M-bone L Finger0
+  - first:
+      1: 100012
+    second: M-bone L Finger1
+  - first:
+      1: 100014
+    second: M-bone L Finger2
+  - first:
+      1: 100016
+    second: M-bone L Foot
+  - first:
+      1: 100018
+    second: M-bone L Forearm
+  - first:
+      1: 100020
+    second: M-bone L Hand
+  - first:
+      1: 100022
+    second: M-bone L Thigh
+  - first:
+      1: 100024
+    second: M-bone L Toe0
+  - first:
+      1: 100026
+    second: M-bone L UpperArm
+  - first:
+      1: 100028
+    second: M-bone Neck
+  - first:
+      1: 100030
+    second: M-bone Pelvis
+  - first:
+      1: 100032
+    second: M-bone R Calf
+  - first:
+      1: 100034
+    second: M-bone R Clavicle
+  - first:
+      1: 100036
+    second: M-bone R Finger0
+  - first:
+      1: 100038
+    second: M-bone R Finger1
+  - first:
+      1: 100040
+    second: M-bone R Finger2
+  - first:
+      1: 100042
+    second: M-bone R Foot
+  - first:
+      1: 100044
+    second: M-bone R Forearm
+  - first:
+      1: 100046
+    second: M-bone R Hand
+  - first:
+      1: 100048
+    second: M-bone R Thigh
+  - first:
+      1: 100050
+    second: M-bone R Toe0
+  - first:
+      1: 100052
+    second: M-bone R UpperArm
+  - first:
+      1: 100054
+    second: M-bone Spine
+  - first:
+      1: 100056
+    second: M-bone Spine1
+  - first:
+      1: 100058
+    second: Scene Root
+  - first:
+      1: 100060
+    second: THE_ARCH_BODY_BL_0.bmp
+  - first:
+      1: 100062
+    second: THE_ARCH_FACE_BL_0.bmp
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: M-bone
+  - first:
+      4: 400004
+    second: M-bone Head
+  - first:
+      4: 400006
+    second: M-bone L Calf
+  - first:
+      4: 400008
+    second: M-bone L Clavicle
+  - first:
+      4: 400010
+    second: M-bone L Finger0
+  - first:
+      4: 400012
+    second: M-bone L Finger1
+  - first:
+      4: 400014
+    second: M-bone L Finger2
+  - first:
+      4: 400016
+    second: M-bone L Foot
+  - first:
+      4: 400018
+    second: M-bone L Forearm
+  - first:
+      4: 400020
+    second: M-bone L Hand
+  - first:
+      4: 400022
+    second: M-bone L Thigh
+  - first:
+      4: 400024
+    second: M-bone L Toe0
+  - first:
+      4: 400026
+    second: M-bone L UpperArm
+  - first:
+      4: 400028
+    second: M-bone Neck
+  - first:
+      4: 400030
+    second: M-bone Pelvis
+  - first:
+      4: 400032
+    second: M-bone R Calf
+  - first:
+      4: 400034
+    second: M-bone R Clavicle
+  - first:
+      4: 400036
+    second: M-bone R Finger0
+  - first:
+      4: 400038
+    second: M-bone R Finger1
+  - first:
+      4: 400040
+    second: M-bone R Finger2
+  - first:
+      4: 400042
+    second: M-bone R Foot
+  - first:
+      4: 400044
+    second: M-bone R Forearm
+  - first:
+      4: 400046
+    second: M-bone R Hand
+  - first:
+      4: 400048
+    second: M-bone R Thigh
+  - first:
+      4: 400050
+    second: M-bone R Toe0
+  - first:
+      4: 400052
+    second: M-bone R UpperArm
+  - first:
+      4: 400054
+    second: M-bone Spine
+  - first:
+      4: 400056
+    second: M-bone Spine1
+  - first:
+      4: 400058
+    second: Scene Root
+  - first:
+      4: 400060
+    second: THE_ARCH_BODY_BL_0.bmp
+  - first:
+      4: 400062
+    second: THE_ARCH_FACE_BL_0.bmp
+  - first:
+      21: 2100000
+    second: THE_ARCH_BODY_BL_0.bmp
+  - first:
+      21: 2100002
+    second: THE_ARCH_FACE_BL_0.bmp
+  - first:
+      43: 4300000
+    second: THE_ARCH_BODY_BL_0.bmp
+  - first:
+      43: 4300002
+    second: THE_ARCH_FACE_BL_0.bmp
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: THE_ARCH_BODY_BL_0.bmp
+  - first:
+      137: 13700002
+    second: THE_ARCH_FACE_BL_0.bmp
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: THE_ARCH_BODY_BL_0.bmp
+    second: {fileID: 2100000, guid: cd3923c80b52b264b94be4a3a0c43ed4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: THE_ARCH_FACE_BL_0.bmp
+    second: {fileID: 2100000, guid: d9327dceb300ad84191275a09c110755, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: Arch(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: -0.19806227, y: 0.1693629, z: -0.6788015, w: 0.6865247}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Scene Root
+      parentName: Arch(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.0000000842937, y: 0.7071068, z: -0.7071068, w: 0.00000014611096}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M-bone
+      parentName: Scene Root
+      position: {x: -0, y: -0.01005846, z: 0.0053138603}
+      rotation: {x: -0, y: 0.70710665, z: 0, w: 0.7071069}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M-bone Pelvis
+      parentName: M-bone
+      position: {x: 0.0026570277, y: -0.047464203, z: 1.1285093}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+    - name: M-bone Spine
+      parentName: M-bone Pelvis
+      position: {x: -0.11771909, y: 0.00000008, z: 0.03391061}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M-bone Spine1
+      parentName: M-bone Spine
+      position: {x: -0.14255424, y: -0.00000004, z: -0.00028122}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M-bone Neck
+      parentName: M-bone Spine1
+      position: {x: -0.35480493, y: -0.00000021, z: -0.08561235}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: M-bone L Clavicle
+      parentName: M-bone Neck
+      position: {x: 0.04930127, y: 0.05760044, z: 0.02818649}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M-bone L UpperArm
+      parentName: M-bone L Clavicle
+      position: {x: -0.10095332, y: 0.00000002, z: -0.00000001}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1.0000004}
+    - name: M-bone L Forearm
+      parentName: M-bone L UpperArm
+      position: {x: -0.30463576, y: -0.000000049999997, z: -0.00000004}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999997, z: 0.9999998}
+    - name: M-bone L Hand
+      parentName: M-bone L Forearm
+      position: {x: -0.3012783, y: 0.00000003, z: 0.00000014}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+    - name: M-bone L Finger0
+      parentName: M-bone L Hand
+      position: {x: -0.04428886, y: -0.05996869, z: 0.05187671}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M-bone L Finger1
+      parentName: M-bone L Hand
+      position: {x: -0.118504636, y: -0.0392355, z: -0.02073519}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M-bone L Finger2
+      parentName: M-bone L Hand
+      position: {x: -0.10581056, y: 0.01640588, z: -0.00511173}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M-bone R Clavicle
+      parentName: M-bone Neck
+      position: {x: 0.0493012, y: -0.05760025, z: 0.02818715}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M-bone R UpperArm
+      parentName: M-bone R Clavicle
+      position: {x: -0.10095331, y: -0.00000007, z: 0.00000004}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000001}
+    - name: M-bone R Forearm
+      parentName: M-bone R UpperArm
+      position: {x: -0.30463594, y: -0.00000018, z: 0.00000002}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1}
+    - name: M-bone R Hand
+      parentName: M-bone R Forearm
+      position: {x: -0.3012783, y: -0.00000003, z: 0.00000014}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000005}
+    - name: M-bone R Finger0
+      parentName: M-bone R Hand
+      position: {x: -0.04428886, y: 0.05996869, z: 0.05187671}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M-bone R Finger1
+      parentName: M-bone R Hand
+      position: {x: -0.11850463, y: 0.03923551, z: -0.020735199}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M-bone R Finger2
+      parentName: M-bone R Hand
+      position: {x: -0.105810605, y: -0.016405849, z: -0.00511173}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: M-bone Head
+      parentName: M-bone Neck
+      position: {x: -0.0988927, y: -0.00000003, z: -0.00000004}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: M-bone L Thigh
+      parentName: M-bone Pelvis
+      position: {x: 0.000000099999994, y: 0.10236447, z: 0.000000099999994}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: M-bone L Calf
+      parentName: M-bone L Thigh
+      position: {x: -0.4893981, y: 0.00000003, z: 0.00000014}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 0.99999994}
+    - name: M-bone L Foot
+      parentName: M-bone L Calf
+      position: {x: -0.4957315, y: -0.00000003, z: -0.00000019}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999976}
+    - name: M-bone L Toe0
+      parentName: M-bone L Foot
+      position: {x: -0.117719114, y: 0.00000002, z: 0.11555704}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 0.99999964, y: 0.99999964, z: 0.99999976}
+    - name: M-bone R Thigh
+      parentName: M-bone Pelvis
+      position: {x: -0.000000099999994, y: -0.10236447, z: -0.000000099999994}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: M-bone R Calf
+      parentName: M-bone R Thigh
+      position: {x: -0.48939806, y: 0.000000049999997, z: 0.00000014}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: M-bone R Foot
+      parentName: M-bone R Calf
+      position: {x: -0.49573153, y: 0.000000099999994, z: -0.00000018}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: M-bone R Toe0
+      parentName: M-bone R Foot
+      position: {x: -0.117719114, y: -0.00000002, z: 0.11555704}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: THE_ARCH_BODY_BL_0.bmp
+      parentName: Arch(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: THE_ARCH_FACE_BL_0.bmp
+      parentName: Arch(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

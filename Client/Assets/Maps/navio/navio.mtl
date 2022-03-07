@@ -1,0 +1,282 @@
+# 43
+newmtl material_0
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_0.tga
+
+# 19
+newmtl material_1
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_1.tga
+
+# 54
+newmtl material_2
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_2.tga
+
+# 44
+newmtl material_3
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_3.tga
+
+# 48
+newmtl material_4
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_4.tga
+
+# 34
+newmtl material_5
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_5.tga
+
+# 36
+newmtl material_6
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_6.tga
+
+# 11
+newmtl material_7
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_7.tga
+
+# 5
+newmtl material_8
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_8.tga
+
+# 3
+newmtl material_9
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_9.tga
+
+# 35
+newmtl material_10
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_10.tga
+
+# 52
+newmtl material_11
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_11.tga
+
+# 53
+newmtl material_12
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_12.tga
+
+# 38
+newmtl material_13
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_13.tga
+
+# 29
+newmtl material_14
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_14.tga
+
+# 2
+newmtl material_15
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_15.tga
+
+# 56
+newmtl material_16
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_16.tga
+
+# 30
+newmtl material_17
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_17.tga
+
+# 27
+newmtl material_18
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_18.tga
+
+# 6
+newmtl material_19
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_19.tga
+
+# 37
+newmtl material_20
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_20.tga
+
+# 16
+newmtl material_21
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_21.tga
+
+# 21
+newmtl material_22
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_22.tga
+
+# 15
+newmtl material_23
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_23.tga
+
+# 1
+newmtl material_24
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_24.tga
+
+# 32
+newmtl material_25
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_25.tga
+
+# 31
+newmtl material_26
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_26.tga
+
+# 8
+newmtl material_27
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_27.tga
+
+# 20
+newmtl material_28
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_28.tga
+
+# 4
+newmtl material_29
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_29.tga
+
+# 33
+newmtl material_30
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_30.tga
+
+# 26
+newmtl material_31
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_31.tga
+
+# 22
+newmtl material_32
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_32.tga
+
+# 24
+newmtl material_33
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_33.tga
+
+# 25
+newmtl material_34
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_34.tga
+
+# biaozhi1
+newmtl material_35
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_35.tga
+
+# 9
+newmtl material_36
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_36.tga
+
+# 28
+newmtl material_37
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_37.tga
+
+# 18
+newmtl material_38
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_38.tga
+
+# 14
+newmtl material_39
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_39.tga
+
+# biaozhi2
+newmtl material_40
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_40.tga
+
+# 49
+newmtl material_41
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_41.tga
+
+# 12
+newmtl material_42
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_42.tga
+
+# {blue
+newmtl material_43
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_43.tga
+
+# {wang1
+newmtl material_44
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_44.tga
+
+# {wang
+newmtl material_45
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_45.tga
+
+# 23
+newmtl material_46
+Kd 1.0000 1.0000 1.0000
+illum 0
+map_Kd navio_material_46.tga
+

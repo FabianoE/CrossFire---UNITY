@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 41375dd25e6a5d14aac2843dedd613ba
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone01
+    100002: Bone03
+    100004: Bone05
+    100006: Dummy01
+    100008: FvARM-bone
+    100010: FvARM-bone L Clavicle
+    100012: FvARM-bone L Finger0
+    100014: FvARM-bone L Finger01
+    100016: FvARM-bone L Finger02
+    100018: FvARM-bone L Finger1
+    100020: FvARM-bone L Finger11
+    100022: FvARM-bone L Finger12
+    100024: FvARM-bone L Finger2
+    100026: FvARM-bone L Finger21
+    100028: FvARM-bone L Finger22
+    100030: FvARM-bone L Finger3
+    100032: FvARM-bone L Finger31
+    100034: FvARM-bone L Finger32
+    100036: FvARM-bone L Finger4
+    100038: FvARM-bone L Finger41
+    100040: FvARM-bone L Finger42
+    100042: FvARM-bone L ForeArm
+    100044: FvARM-bone L ForeTwist
+    100046: FvARM-bone L Hand
+    100048: FvARM-bone L UpperArm
+    100050: FvARM-bone Neck
+    100052: FvARM-bone Pelvis
+    100054: FvARM-bone Prop1
+    100056: FvARM-bone R Clavicle
+    100058: FvARM-bone R Finger0
+    100060: FvARM-bone R Finger01
+    100062: FvARM-bone R Finger02
+    100064: FvARM-bone R Finger1
+    100066: FvARM-bone R Finger11
+    100068: FvARM-bone R Finger12
+    100070: FvARM-bone R Finger2
+    100072: FvARM-bone R Finger21
+    100074: FvARM-bone R Finger22
+    100076: FvARM-bone R Finger3
+    100078: FvARM-bone R Finger31
+    100080: FvARM-bone R Finger32
+    100082: FvARM-bone R Finger4
+    100084: FvARM-bone R Finger41
+    100086: FvARM-bone R Finger42
+    100088: FvARM-bone R ForeArm
+    100090: FvARM-bone R ForeTwist
+    100092: FvARM-bone R Hand
+    100094: FvARM-bone R UpperArm
+    100096: FvARM-bone Spine
+    100098: FvARM-bone Spine1
+    100100: Scene Root
+    100102: //RootNode
+    400000: Bone01
+    400002: Bone03
+    400004: Bone05
+    400006: Dummy01
+    400008: FvARM-bone
+    400010: FvARM-bone L Clavicle
+    400012: FvARM-bone L Finger0
+    400014: FvARM-bone L Finger01
+    400016: FvARM-bone L Finger02
+    400018: FvARM-bone L Finger1
+    400020: FvARM-bone L Finger11
+    400022: FvARM-bone L Finger12
+    400024: FvARM-bone L Finger2
+    400026: FvARM-bone L Finger21
+    400028: FvARM-bone L Finger22
+    400030: FvARM-bone L Finger3
+    400032: FvARM-bone L Finger31
+    400034: FvARM-bone L Finger32
+    400036: FvARM-bone L Finger4
+    400038: FvARM-bone L Finger41
+    400040: FvARM-bone L Finger42
+    400042: FvARM-bone L ForeArm
+    400044: FvARM-bone L ForeTwist
+    400046: FvARM-bone L Hand
+    400048: FvARM-bone L UpperArm
+    400050: FvARM-bone Neck
+    400052: FvARM-bone Pelvis
+    400054: FvARM-bone Prop1
+    400056: FvARM-bone R Clavicle
+    400058: FvARM-bone R Finger0
+    400060: FvARM-bone R Finger01
+    400062: FvARM-bone R Finger02
+    400064: FvARM-bone R Finger1
+    400066: FvARM-bone R Finger11
+    400068: FvARM-bone R Finger12
+    400070: FvARM-bone R Finger2
+    400072: FvARM-bone R Finger21
+    400074: FvARM-bone R Finger22
+    400076: FvARM-bone R Finger3
+    400078: FvARM-bone R Finger31
+    400080: FvARM-bone R Finger32
+    400082: FvARM-bone R Finger4
+    400084: FvARM-bone R Finger41
+    400086: FvARM-bone R Finger42
+    400088: FvARM-bone R ForeArm
+    400090: FvARM-bone R ForeTwist
+    400092: FvARM-bone R Hand
+    400094: FvARM-bone R UpperArm
+    400096: FvARM-bone Spine
+    400098: FvARM-bone Spine1
+    400100: Scene Root
+    400102: //RootNode
+    7400000: Animation
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Animation
+      takeName: Animation
+      firstFrame: 1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
