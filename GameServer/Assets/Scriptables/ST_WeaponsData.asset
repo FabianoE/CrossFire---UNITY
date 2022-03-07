@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e2c1e09c114801f4d9db6fae2f281185, type: 3}
+  m_Name: ST_WeaponsData
+  m_EditorClassIdentifier: 
+  _WeaponsData:
+  - ID: 1
+    Code: 1
+    Name: AK47
+    WeaponType: 0
+    Damage: 10
+    Perna: 24
+    Peito: 40
+    Cabeca: 100
+    Pe: 24
+    Braco: 35
+    Ammo: 90
+    MaxAmmo: 30
+    AmmoinPaint: 30
+    ReloadTime: 2000
+    FireRate: 1
+    DrawDelay: 1000
+  - ID: 2
+    Code: 2
+    Name: Desert
+    WeaponType: 2
+    Damage: 7
+    Perna: 35
+    Peito: 61
+    Cabeca: 100
+    Pe: 35
+    Braco: 51
+    Ammo: 21
+    MaxAmmo: 7
+    AmmoinPaint: 7
+    ReloadTime: 2300
+    FireRate: 1
+    DrawDelay: 1000
+  - ID: 3
+    Code: 3
+    Name: AWM Infernal
+    WeaponType: 1
+    Damage: 100
+    Perna: 81
+    Peito: 100
+    Cabeca: 100
+    Pe: 81
+    Braco: 100
+    Ammo: 20
+    MaxAmmo: 5
+    AmmoinPaint: 5
+    ReloadTime: 2000
+    FireRate: 1
+    DrawDelay: 1000
+  - ID: 4
+    Code: 4
+    Name: MACHADO
+    WeaponType: 3
+    Damage: 100
+    Perna: 100
+    Peito: 100
+    Cabeca: 100
+    Pe: 100
+    Braco: 100
+    Ammo: 0
+    MaxAmmo: 0
+    AmmoinPaint: 0
+    ReloadTime: 0
+    FireRate: 0
+    DrawDelay: 1000
+  - ID: 5
+    Code: 5
+    Name: GRENADE
+    WeaponType: 4
+    Damage: 100
+    Perna: 100
+    Peito: 100
+    Cabeca: 100
+    Pe: 100
+    Braco: 100
+    Ammo: 0
+    MaxAmmo: 1
+    AmmoinPaint: 1
+    ReloadTime: 0
+    FireRate: 0
+    DrawDelay: 1000
