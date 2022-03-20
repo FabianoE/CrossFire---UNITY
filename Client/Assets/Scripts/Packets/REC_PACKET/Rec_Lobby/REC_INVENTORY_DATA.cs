@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 using UnityEngine;
 
 public class REC_INVENTORY_DATA : MonoBehaviour
-{ 
-     public static void Received(Packet packet)
-     {
+{
+    public static void Received(Packet packet)
+    {
+        int invType = packet.ReadInt(); // 1 = Inventory Weapons || 2 = Inventory Characters(incomplete)
+
+        if (invType == 2) //If inventory data == inventory characters
+            return;
+
         int iventoryid = packet.ReadInt(); //Primary
         int itemid = packet.ReadInt();
 
@@ -17,6 +22,9 @@ public class REC_INVENTORY_DATA : MonoBehaviour
 
         int inventoryid3 = packet.ReadInt(); //Melee
         int itemid3 = packet.ReadInt();
+
+        int inventoryid4 = packet.ReadInt(); //Grenade
+        int itemid4 = packet.ReadInt();
 
         int bt = packet.ReadInt();
         List<InventoryItems> list = packet.ReadBytes(bt).DeserializeObject<List<InventoryItems>>();
@@ -32,5 +40,5 @@ public class REC_INVENTORY_DATA : MonoBehaviour
         LobbyItemsObject.instance.SetBagItems(2, itemid3);//Melee(Knife)
 
         LTP_Manager.instance.EnableWeapon(itemid);
-     }
+    }
 }
