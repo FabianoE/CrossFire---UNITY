@@ -57,8 +57,10 @@ CREATE TABLE public.accounts (
     bag1_primary integer,
     bag1_secondary integer,
     bag1_melee integer,
-    bag1_grenade
+    bag1_grenade integer
 );
+
+INSERT INTO "public"."accounts" VALUES (1, 'test', '123', 'Test', 123, 123, 123, 123, 123, 1, 2, 4, 4);
 
 
 ALTER TABLE public.accounts OWNER TO postgres;
@@ -74,7 +76,19 @@ CREATE TABLE public.player_inventory (
     player_id integer NOT NULL
 );
 
+INSERT INTO "public"."player_inventory" VALUES (1, 1, 1);
+INSERT INTO "public"."player_inventory" VALUES (2, 2, 1);
+INSERT INTO "public"."player_inventory" VALUES (3, 3, 1);
+INSERT INTO "public"."player_inventory" VALUES (4, 4, 1);
 
 ALTER TABLE public.player_inventory OWNER TO postgres;
+
+CREATE TABLE "public"."player_characters" (
+  "id" int4 NOT NULL,
+  "item_id" int4 NOT NULL,
+  "player_id" int4 NOT NULL
+);
+
+INSERT INTO "public"."player_characters" VALUES (1, 1, 1);
 
 
